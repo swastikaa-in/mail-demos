@@ -25,8 +25,8 @@ public class MailService {
 	private static final String HOST = "smtp.gmail.com";
 	private static final int PORT = 465;
 	private static final boolean SSL_FLAG = true;
-	private static final String USERNAME = "masha.rostava.rgb@gmail.com";
-	private static final String PASSWORD = "Kajol143$";
+	private static final String USERNAME = "";
+	private static final String PASSWORD = "";
 
 	@Autowired
 	private Configuration config;
